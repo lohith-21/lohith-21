@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @lohith-21
-- 👀 I’m interested in developer
-- 🌱 I’m currently working in thinkworks infotech as it instructor
-- 💞️ I’m looking to collaborate on developer role
+Python django social-media-app 
 
 
 <!---
